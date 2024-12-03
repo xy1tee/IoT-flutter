@@ -1,4 +1,4 @@
-# jokes_app
+# star_trek_facts
 
 A new Flutter project.
 
